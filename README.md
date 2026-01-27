@@ -1,9 +1,8 @@
 # crowking.github.io
 NSFW! holds images for my vrchat world
 
-Join our Discord server!
 <li class="masthead__menu-item">
-          <a href="https://discord.gg/WdGngZmTYP">Research</a>
+          <a href="https://discord.gg/WdGngZmTYP">Click me to join the Discord server!</a>
         </li>
 
 all our images!
